@@ -9,3 +9,7 @@
 # 1) Create a recursive function for all of the disks A, B and C.
 # 2) push the disks movement in an array
 # 3) Time Complexity: O(2^N)
+
+
+# To Run your code
+# node assignment.js to view the Output.
